@@ -79,6 +79,7 @@ const App = () => {
       longitudeDelta: 0.0421,
     }}
   /> */}
+  
   <View style={styles.mapCont}>
   <MapView
        provider={PROVIDER_GOOGLE} // remove if not using Google Maps
